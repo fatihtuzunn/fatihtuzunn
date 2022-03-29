@@ -1,6 +1,6 @@
 ## 👋 Hello! Welcome to my Github profile.
 
-<h3 align="center">I'm a self-taught web developer from Turkey.</h3>
+<h3 align="center">I'm a self-taught web developer from Turkey. My name is Fatih. My pronouns are He/Him. </h3>
 
 - 🌱 I’m currently learning **Express.js, React**
 
