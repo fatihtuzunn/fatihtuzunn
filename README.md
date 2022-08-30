@@ -2,7 +2,7 @@
 
 <h3 align="center">I'm a self-taught web developer from Turkey. My name is Fatih. My pronouns are He/Him. </h3>
 
-- 🌱 I’m currently learning **Express.js, React**
+- 🌱 I’m currently learning **Express.js, Vue, Nuxt.js**
 
 - 📝 I regularly write articles on [https://fatihtuzunn.github.io](https://fatihtuzunn.github.io)
 
