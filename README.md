@@ -2,11 +2,10 @@
 
 <h3 align="center">I'm a self-taught web developer from Turkey. My name is Fatih. My pronouns are He/Him. </h3>
 
-- 🌱 I’m currently learning **Express.js, React, Next.js**
+
 
 - 📝 I regularly write articles on [https://fatihtuzunn.github.io](https://fatihtuzunn.github.io)
 
-- 💬 Ask me about **nodejs, javascript**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
