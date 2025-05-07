@@ -1,11 +1,5 @@
 ## 👋 Hello! Welcome to my Github profile.
 
-<h3 align="center">I'm a self-taught web developer from Turkey. My name is Fatih. My pronouns are He/Him. </h3>
-
-
-
-- 📝 I regularly write articles on [https://fatihtuzunn.github.io](https://fatihtuzunn.github.io)
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
